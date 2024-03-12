@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EddyVac
-- 👀 I’m interested in creating new world, sharing experience to build projects with people. I love cinema, theater, hiking, discovering new things.
+- 👀 I’m interested in creating new worlds,fascinating stories sharing experience to build projects with people. I love cinema, theater, hiking, discovering new things.
 - 🌱 I’m currently learning how to develop a video game. 
 
 <!---
